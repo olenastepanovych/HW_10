@@ -1,0 +1,233 @@
+    1  git config --global user.name "Lena"
+    2  `
+    3  git config --global user.email "stlena113@gmail.com"
+    4  git config --get user.name
+    5  exit
+    6  ~cd..
+    7  exit
+    8  git config --global user.name "Lena"
+    9  git config --global user.email "stlena113@gmail.com"
+   10  git config --get user.name
+   11  git config --get user.email
+   12  exit
+   13  exit
+   14  exit
+   15  git --version
+   16  git config --global user.name "your_name"
+   17  git config --global user.name "your_name"
+   18  exit
+   19  git clone git@github.com:olenastepanovych/my-first-project.git
+   20  exit
+   21  git config --global user.name "Lena"
+   22  git config --global user.email "stlena113@gmail.com"
+   23  git config --get user.name
+   24  git config --get user.email
+   25  ssh-keygen -t rsa -b 4096 -C "stlena113@gmail.com"
+   26  eval "$(ssh-agent -s)"
+   27  ssh-add ~/.ssh/id_rsa
+   28  cat ~/.ssh/id_rsa.pub
+   29  exit
+   30  code .
+   31  git status
+   32  exit
+   33  git clone https://github.com/olenastepanovych/goit-markup-hw-01.git
+   34  exit
+   35  git cloner git@github.com:JokerGared/Practise.git
+   36  git cloner git@github.com:JokerGared/Practise.git
+   37  git clone git@github.com:JokerGared/Practise.git
+   38  git clone git@github.com:JokerGared/Practise.git
+   39  git clone git@github.com:JokerGared/Practise.git
+   40  exit
+   41  git clone git@github.com:olenastepanovych/goit-markup-hw-02.git
+   42  code.
+   43  exit
+   44  git clone git@github.com:olenastepanovych/goit-markup-hw-02.git
+   45  exit
+   46  git clone git@github.com:olenastepanovych/goit-markup-hw-02.git
+   47  exit
+   48  git clone git@github.com:olenastepanovych/goit-markup-hw-02.git
+   49  exit
+   50  git clone git@github.com:olenastepanovych/goit-markup-hw-02.git
+   51  exit
+   52  git clone git@github.com:olenastepanovych/goit-markup-hw-02.git
+   53  exit
+   54  git cline https://github.com/olenastepanovych/goit-markup-hw-02.git
+   55  git clone https://github.com/olenastepanovych/goit-markup-hw-02.git
+   56  exit
+   57  git clone https://github.com/olenastepanovych/-goit-markup-hw-03.git
+   58  exit
+   59  git clone git@github.com:olenastepanovych/goit-markup-hw-04.git
+   60  git clone https://github.com/olenastepanovych/goit-markup-hw-04.git
+   61  exit
+   62  git clone https://github.com/olenastepanovych/goit-markup-hw-05.git
+   63  exit
+   64  git clone https://github.com/olenastepanovych/goit-markup-hw-06.git
+   65  exit
+   66  git clone https://github.com/JokerGared/Practise111.git
+   67  exit
+   68  git clone https://github.com/irina8660/command-project.git
+   69  exit
+   70  git clone [200~https://github.com/irina8660/command-project.git~
+   71  exit
+   72  git clone git@github.com:irina8660/command-project.git
+   73  git clone https://github.com/irina8660/command-project.git
+   74  exit
+   75  git clone github.com:olenastepanovych/goit-js-hw-01.git
+   76  git clone https://github.com/olenastepanovych/goit-js-hw-01.git
+   77  exit
+   78  git clone [200~https://github.com/olenastepanovych/goit-js-hw-02.git~
+   79  git clone https://github.com/olenastepanovych/goit-js-hw-02.git
+   80  exit
+   81  git clone https://github.com/olenastepanovych/goit-js-hw-03.git
+   82  exit
+   83  git clone https://github.com/olenastepanovych/goit-js-hw-04.git
+   84  exit
+   85  git clone https://github.com/olenastepanovych/goit-js-hw-05.git
+   86  exit
+   87  git clone https://github.com/olenastepanovych/goit-js-hw-06.git
+   88  exit
+   89  git clone https://github.com/olenastepanovych/goit-js-hw-07.git
+   90  exit
+   91  git clone https://github.com/olenastepanovych/goit-js-hw-08.git
+   92  exit
+   93  node --version
+   94  npm --version
+   95  npm config set init-author-name "Olena Stepanovych"
+   96  npm config set init-author-email "stlena113@gmail.com"
+   97  cd ~/projects
+   98  cd C:/projects
+   99  /projects
+  100  cd C:/Projects
+  101  /Projects
+  102  npm create vite@latest
+  103  cd
+  104  git clone https://github.com/olenastepanovych/goit-js-hw-09.git
+  105  ls
+  106  exit
+  107  git clone https://github.com/olenastepanovych/goit-js-hw-09.git
+  108  exit
+  109  code .
+  110  exit
+  111  git clone https://github.com/olenastepanovych/goit-js-hw-10.git
+  112  exit
+  113  git clone https://github.com/olenastepanovych/goit-js-hw-11.git
+  114  exit
+  115  git -v
+  116  pwd
+  117  ls
+  118  ls -la
+  119  exit
+  120  git clone https://github.com/olenastepanovych/goit-js-hw-12.git
+  121  exit
+  122  git clone https://github.com/olenastepanovych/goit-js-hw-12.git
+  123  exit
+  124  git clone https://github.com/olenastepanovych/goit-js-hw-12.git
+  125  exit
+  126  git clone https://github.com/olenastepanovych/goit-js-hw-12.git
+  127  exit
+  128  node -v
+  129  exit
+  130  git clone https://github.com/olenastepanovych/goit-js-hw-12.git
+  131  exit
+  132  git clone https://github.com/zhonik/blended-products.git
+  133  exit
+  134  git clone https://github.com/irina8660/command-project-portfolio.git
+  135  exit
+  136  git clone https://github.com/irina8660/command-project-portfolio.git
+  137  exit
+  138  git clone https://github.com/irina8660/command-project-portfolio.git
+  139  exit
+  140  node -v
+  141  exit
+  142  git clone https://github.com/olenastepanovych/goit-react-hw-01.git
+  143  cd goit-react-hw-01
+  144  npm create vite@latest
+  145  git clone https://github.com/Gumilin-Aleksandr/commandf113-project-portfolio.git
+  146  exit
+  147  git clone https://github.com/olenastepanovych/start-files-blended-vite-1.git
+  148  exit
+  149  git clone https://github.com/olenastepanovych/goit-react-hw-01.git
+  150  exit
+  151  git clone https://github.com/olenastepanovych/goit-react-hw-02.git
+  152  exit
+  153  git clone https://github.com/olenastepanovych/goit-react-hw-02.git
+  154  exit
+  155  git clone https://github.com/olenastepanovych/goit-react-hw-03.git
+  156  exit
+  157  git clone https://github.com/goitacademy/cssgrid-course-code.git
+  158  exit
+  159  git clone https://github.com/olenastepanovych/goit-react-hw-04.git
+  160  exit
+  161  git clone https://github.com/olenastepanovych/project-watches.git
+  162  exit
+  163  git clone https://github.com/olenastepanovych/goit-react-hw-05.git
+  164  exit
+  165  git clone https://github.com/dykyys/start-files-blended-vite-3.git
+  166  exit
+  167  git clone https://github.com/olenastepanovych/project-portfolio.git
+  168  exit
+  169  git clone https://github.com/olenastepanovych/goit-react-hw-06.git
+  170  exit
+  171  git clone https://github.com/olenastepanovych/goit-react-hw-07.git
+  172  exit
+  173  git clone https://github.com/olenastepanovych/goit-react-hw-07.git
+  174  exit
+  175  git clone https://github.com/olenastepanovych/start-files-blended-vite-4.git
+  176  exit
+  177  git clone https://github.com/olenastepanovych/start-files-blended-vite-5.git
+  178  exit
+  179  git clone https://github.com/olenastepanovych/goit-react-hw-08.git
+  180  exit
+  181  git clone https://github.com/olenastepanovych/goit-typescript-hw-01.git
+  182  exit
+  183  git clone https://github.com/olenastepanovych/goit-typescript-hw-02.git
+  184  exit
+  185  git clone https://github.com/olenastepanovych/goit-typescript-hw-02.git
+  186  exit
+  187  git clone https://github.com/olenastepanovych/nodejs-hw-01.git
+  188  exit
+  189  git clone https://github.com/olenastepanovych/nodejs-hw-01.git
+  190  exit
+  191  git clone https://github.com/olenastepanovych/blended-node-1module.git
+  192  exit
+  193  git clone https://github.com/olenastepanovych/nodejs-hw-mongodb.git
+  194  exit
+  195  git clone https://github.com/JokerGared/Geeks-frontend-project.git
+  196  git clone https://github.com/JokerGared/Geeks-frontend-project.git
+  197  exit
+  198  git clone https://github.com/JokerGared/Geeks-frontend-project.git
+  199  exit
+  200  git clone https://github.com/JokerGared/Geeks-backend-project.git
+  201  exit
+  202  npx create-next-app@latest
+  203  exit
+  204  git clone https://github.com/olenastepanovych/nextjs-crm.git
+  205  exit
+  206  git clone https://github.com/olenastepanovych/nextjs-crm.git
+  207  exit
+  208  npx create-next-app@latest
+  209  npx create-next-app@latest
+  210  exit
+  211  git clone https://github.com/olenastepanovych/travel-trucks.git
+  212  cd travel-trucks
+  213  npm create vite@latest
+  214  git clone https://github.com/olenastepanovych/HW_10.git
+  215  exit
+  216  git status
+  217  git add .
+  218  git commit - m ".gitignore"
+  219  git commit -m ".gitignore"
+  220  git add .
+  221  git commit -m "main_test.txt"
+  222  git checkout
+  223  git add .
+  224  git commit -m "develop_test.txt"
+  225  git status
+  226  git add .
+  227  git commit -m "develop_test.txt change"
+  228  git checkout
+  229  git checkout main
+  230  git pull origin main
+  231  git merge develop
+  232  git log
+  233  history > command_list.csv
